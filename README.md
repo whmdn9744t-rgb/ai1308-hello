@@ -1,2 +1,1 @@
-# ai1308-hello
-Bai tap mon AI1308
+# AI1308 Hello World
